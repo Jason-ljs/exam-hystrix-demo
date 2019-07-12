@@ -409,4 +409,4 @@ Feign中已经集成了Hystrix，所以我们使用Feign中的Hystrix就可以�
 
 10. ok，到此就结束了一个非常间的小案例，敏感的同学可以发现，我注释掉一个超时的代码和配置，有兴趣的话可以研究一下，超时进入容错
 
-此项目已上传至GitHub：<https://github.com/Jason-ljs/exam-hystrix-demo> 
+博客链接：https://blog.csdn.net/weixin_43650254/article/details/95620622
